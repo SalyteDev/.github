@@ -11,6 +11,8 @@ Below is a list of our projects.
 <strong><a href="https://github.com/SalyteDev/webpage-downloader">Webpage Downloader</a></strong> - A tool that allows you to download websites for offline viewing.
 
 <strong><a href="https://github.com/SalyteDev/webpage-downloader">YT-to-MP4</a></strong> - A useful tool that allows you to save YouTube videos as a MP4 file.
+
+<strong><a href="https://github.com/DerpmanDev/shelaii">Shelaii</a></strong> - A CLI tool that allows you to communicate with AI models
 </pre>
 
 ### Community
